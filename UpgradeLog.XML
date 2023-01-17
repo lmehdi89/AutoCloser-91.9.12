@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AutoCloser">
+</Property><Property Name="Solution File" Value="D:\AutoCloser\AutoCloser.sln">
+</Property><Property Name="User Options File" Value="D:\AutoCloser\AutoCloser.suo">
+</Property><Property Name="Date" Value="Thursday, December 06, 2012">
+</Property><Property Name="Time" Value="7:51 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AutoCloser.sln" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AutoCloser.suo" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser.suo">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\AutoCloser.vbproj" Description="Project file successfully backed up as D:\AutoCloser\Backup\AutoCloser\AutoCloser.vbproj">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\AutoCloser.vbproj.user" Description="Project user file successfully backed up as D:\AutoCloser\Backup\AutoCloser\AutoCloser.vbproj.user">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\ApplicationEvents.vb" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Form1.Designer.vb" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Form1.vb" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Form1.vb">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Form2.Designer.vb" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Form2.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Form2.vb" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Form2.vb">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Form3.Designer.vb" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Form3.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Form3.vb" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Form3.vb">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Form4.Designer.vb" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Form4.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Form4.vb" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Form4.vb">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Module1.vb" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Module1.vb">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\My Project\Application.Designer.vb" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\TMListViewDelete_V2.vb" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\TMListViewDelete_V2.vb">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\My Project\Application.myapp" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\My Project\Settings.settings" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Resources\PerfCenterCpl.ico" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Resources\PerfCenterCpl.ico">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Resources\Inf.jpg" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Resources\Inf.jpg">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Resources\Inf1.jpg" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Resources\Inf1.jpg">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Resources\Inf2.jpg" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Resources\Inf2.jpg">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Resources\Inf3.jpg" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Resources\Inf3.jpg">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\PerfCenterCpl.ico" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\PerfCenterCpl.ico">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Resources\CyberLink.ico" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Resources\CyberLink.ico">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Form1.resx" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Form1.resx">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Form2.resx" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Form2.resx">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Form3.resx" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Form3.resx">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\Form4.resx" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\Form4.resx">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\My Project\Resources.resx" Description="File successfully backed up as D:\AutoCloser\Backup\AutoCloser\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\AutoCloser.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AutoCloser" Source="AutoCloser\AutoCloser.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AutoClose.vdproj" Source="AutoClose\AutoClose.vdproj" Description="Project file successfully backed up as D:\AutoCloser\Backup\AutoClose\AutoClose.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="AutoCloser.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AutoCloser.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AutoCloser" Source="AutoCloser\AutoCloser.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

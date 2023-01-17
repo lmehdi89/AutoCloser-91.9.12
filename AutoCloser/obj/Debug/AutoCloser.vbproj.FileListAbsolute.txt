@@ -1,0 +1,82 @@
+C:\Users\Mehdi\AppData\Local\Temporary Projects\AutoCloser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mehdi\AppData\Local\Temporary Projects\AutoCloser\obj\Debug\AutoCloser.Form1.resources
+C:\Users\Mehdi\AppData\Local\Temporary Projects\AutoCloser\obj\Debug\AutoCloser.Form2.resources
+C:\Users\Mehdi\AppData\Local\Temporary Projects\AutoCloser\obj\Debug\AutoCloser.Form3.resources
+C:\Users\Mehdi\AppData\Local\Temporary Projects\AutoCloser\obj\Debug\AutoCloser.Form4.resources
+C:\Users\Mehdi\AppData\Local\Temporary Projects\AutoCloser\obj\Debug\AutoCloser.Resources.resources
+C:\Users\Mehdi\AppData\Local\Temporary Projects\AutoCloser\obj\Debug\AutoCloser.vbproj.GenerateResource.Cache
+C:\Users\Mehdi\AppData\Local\Temporary Projects\AutoCloser\bin\Debug\AutoCloser.exe
+C:\Users\Mehdi\AppData\Local\Temporary Projects\AutoCloser\bin\Debug\AutoCloser.pdb
+C:\Users\Mehdi\AppData\Local\Temporary Projects\AutoCloser\bin\Debug\AutoCloser.xml
+C:\Users\Mehdi\AppData\Local\Temporary Projects\AutoCloser\obj\Debug\AutoCloser.exe
+C:\Users\Mehdi\AppData\Local\Temporary Projects\AutoCloser\obj\Debug\AutoCloser.xml
+C:\Users\Mehdi\AppData\Local\Temporary Projects\AutoCloser\obj\Debug\AutoCloser.pdb
+C:\Users\Mehdi\Documents\Visual Studio 2008\Projects\AutoCloser\AutoCloser\obj\Debug\AutoCloser.exe
+C:\Users\Mehdi\Documents\Visual Studio 2008\Projects\AutoCloser\AutoCloser\obj\Debug\AutoCloser.xml
+C:\Users\Mehdi\Documents\Visual Studio 2008\Projects\AutoCloser\AutoCloser\obj\Debug\AutoCloser.pdb
+C:\Users\Mehdi\Documents\Visual Studio 2008\Projects\AutoCloser\AutoCloser\bin\Debug\AutoCloser.exe
+C:\Users\Mehdi\Documents\Visual Studio 2008\Projects\AutoCloser\AutoCloser\bin\Debug\AutoCloser.pdb
+C:\Users\Mehdi\Documents\Visual Studio 2008\Projects\AutoCloser\AutoCloser\bin\Debug\AutoCloser.xml
+C:\Users\Mehdi\Documents\Visual Studio 2008\Projects\AutoCloser\AutoCloser\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mehdi\Documents\Visual Studio 2008\Projects\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Form1.resources
+C:\Users\Mehdi\Documents\Visual Studio 2008\Projects\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Form2.resources
+C:\Users\Mehdi\Documents\Visual Studio 2008\Projects\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Form3.resources
+C:\Users\Mehdi\Documents\Visual Studio 2008\Projects\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Form4.resources
+C:\Users\Mehdi\Documents\Visual Studio 2008\Projects\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Resources.resources
+C:\Users\Mehdi\Documents\Visual Studio 2008\Projects\AutoCloser\AutoCloser\obj\Debug\AutoCloser.vbproj.GenerateResource.Cache
+H:\akbari\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\AutoCloser.exe
+H:\akbari\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\AutoCloser.xml
+H:\akbari\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\AutoCloser.pdb
+H:\Projects\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\AutoCloser.exe
+H:\Projects\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\AutoCloser.xml
+H:\Projects\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\AutoCloser.pdb
+H:\Projects\Auto Closer for xp&7\AutoCloser\AutoCloser\bin\Debug\AutoCloser.exe
+H:\Projects\Auto Closer for xp&7\AutoCloser\AutoCloser\bin\Debug\AutoCloser.pdb
+H:\Projects\Auto Closer for xp&7\AutoCloser\AutoCloser\bin\Debug\AutoCloser.xml
+H:\Projects\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\ResolveAssemblyReference.cache
+H:\Projects\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Form1.resources
+H:\Projects\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Form2.resources
+H:\Projects\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Form3.resources
+H:\Projects\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Form4.resources
+H:\Projects\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Resources.resources
+H:\Projects\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\AutoCloser.vbproj.GenerateResource.Cache
+\\AKBARI-PC\New folder (2)\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\AutoCloser.exe
+\\AKBARI-PC\New folder (2)\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\AutoCloser.xml
+\\AKBARI-PC\New folder (2)\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\AutoCloser.pdb
+E:\Software\Setup\New folder (2)\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\AutoCloser.exe
+E:\Software\Setup\New folder (2)\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\AutoCloser.xml
+E:\Software\Setup\New folder (2)\Auto Closer for xp&7\AutoCloser\AutoCloser\obj\Debug\AutoCloser.pdb
+D:\AutoCloser\AutoCloser\obj\Debug\AutoCloser.exe
+D:\AutoCloser\AutoCloser\obj\Debug\AutoCloser.xml
+D:\AutoCloser\AutoCloser\obj\Debug\AutoCloser.pdb
+D:\AutoCloser\AutoCloser\bin\Debug\AutoCloser.exe
+D:\AutoCloser\AutoCloser\bin\Debug\AutoCloser.pdb
+D:\AutoCloser\AutoCloser\bin\Debug\AutoCloser.xml
+D:\AutoCloser\AutoCloser\obj\Debug\ResolveAssemblyReference.cache
+D:\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Form1.resources
+D:\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Form2.resources
+D:\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Form3.resources
+D:\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Form4.resources
+D:\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Resources.resources
+D:\AutoCloser\AutoCloser\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\AutoCloser\AutoCloser\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Software\Setup\AutoCloser\AutoCloser\obj\Debug\AutoCloser.exe
+E:\Software\Setup\AutoCloser\AutoCloser\obj\Debug\AutoCloser.xml
+E:\Software\Setup\AutoCloser\AutoCloser\obj\Debug\AutoCloser.pdb
+E:\Software\Setup\AutoCloser\AutoCloser\bin\Debug\AutoCloser.exe
+E:\Software\Setup\AutoCloser\AutoCloser\bin\Debug\AutoCloser.pdb
+E:\Software\Setup\AutoCloser\AutoCloser\bin\Debug\AutoCloser.xml
+E:\Software\Setup\AutoCloser\AutoCloser\obj\Debug\ResolveAssemblyReference.cache
+E:\Software\Setup\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Form1.resources
+E:\Software\Setup\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Form2.resources
+E:\Software\Setup\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Form3.resources
+E:\Software\Setup\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Form4.resources
+E:\Software\Setup\AutoCloser\AutoCloser\obj\Debug\AutoCloser.Resources.resources
+E:\Software\Setup\AutoCloser\AutoCloser\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Software\Setup\AutoCloser\AutoCloser\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Software\Setup\AutoCloser 91.9.12\AutoCloser\obj\Debug\AutoCloser.exe
+E:\Software\Setup\AutoCloser 91.9.12\AutoCloser\obj\Debug\AutoCloser.xml
+E:\Software\Setup\AutoCloser 91.9.12\AutoCloser\obj\Debug\AutoCloser.pdb
+E:\Software\Setup\Projects\AutoCloser 91.9.12\AutoCloser\obj\Debug\AutoCloser.exe
+E:\Software\Setup\Projects\AutoCloser 91.9.12\AutoCloser\obj\Debug\AutoCloser.xml
+E:\Software\Setup\Projects\AutoCloser 91.9.12\AutoCloser\obj\Debug\AutoCloser.pdb
